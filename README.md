@@ -4,4 +4,4 @@ Dashboard for Visualization created using :
 Frontend: Flask , javascript , html , css , bootstrap4  , plotly .js ( for interactive plotting )
 Backend : Mysql database instance on AWS and MYSQL Workbench , Python 
 
-![](image.PNG)
+![](image.png)
